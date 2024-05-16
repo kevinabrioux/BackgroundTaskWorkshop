@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D0584FB32BF6061B00E78195 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		D0741AB22BF5F9DA00F6C4B3 /* BackgroundTaskWorkshop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BackgroundTaskWorkshop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0741AB52BF5F9DA00F6C4B3 /* BackgroundTaskWorkshopApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundTaskWorkshopApp.swift; sourceTree = "<group>"; };
 		D0741AB72BF5F9DA00F6C4B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,6 +96,7 @@
 		D0741AB42BF5F9DA00F6C4B3 /* BackgroundTaskWorkshop */ = {
 			isa = PBXGroup;
 			children = (
+				D0584FB32BF6061B00E78195 /* Info.plist */,
 				D0741AB52BF5F9DA00F6C4B3 /* BackgroundTaskWorkshopApp.swift */,
 				D0741AB72BF5F9DA00F6C4B3 /* ContentView.swift */,
 				D0741AB92BF5F9DB00F6C4B3 /* Assets.xcassets */,
@@ -420,8 +422,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"BackgroundTaskWorkshop/Preview Content\"";
+				DEVELOPMENT_TEAM = AE3558WB8K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BackgroundTaskWorkshop/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -456,8 +460,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"BackgroundTaskWorkshop/Preview Content\"";
+				DEVELOPMENT_TEAM = AE3558WB8K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BackgroundTaskWorkshop/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
